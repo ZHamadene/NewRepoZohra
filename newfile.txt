@@ -1,2 +1,1 @@
-Hello !
-These changes was created on my-new-branch
+this is first git and GitHub lab
